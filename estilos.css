@@ -5,7 +5,14 @@
     margin: 0 auto;
 }
 
+.contenedor p {
+    text-align: justify;
+    margin: 15px;
+}
+
 .titulo h2 {
     text-align: center;
+    color: blue;
+    font-family: sans-serif;
 }
 
